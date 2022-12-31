@@ -21,7 +21,7 @@ Este sistema fue compilado con la intención de ponerlo disponible ante la comun
 
 Si deseas usarlo solo tienes que hacer un fork de este repositorio, clonarlo en tu entorno de desarrollo y comenzar a modificarlo.
 
-### Fuentes
+## Fuentes
 
 -   [Mywebtuts.com](https://www.mywebtuts.com/blog/laravel-9-user-roles-and-permissions-tutorial-example?ref=morioh.com&utm_source=morioh.com)
 -   [Laravel](https://laravel.com/)
